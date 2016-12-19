@@ -1,0 +1,351 @@
+{
+  "in_reply_to_user_id": null,
+  "entities": {
+    "symbols": [],
+    "urls": [
+      {
+        "expanded_url": "http://nbcnews.io/new-limitless-pill-will-go-public-in-24-hours/?source=socialpubs&a=97",
+        "display_url": "nbcnews.io/new-limitless-…",
+        "url": "https://t.co/XsjdJjlJh1",
+        "indices": [
+          87,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "name": "NBC News",
+        "id": 2407177889,
+        "screen_name": "NBCNewsReport",
+        "indices": [
+          3,
+          17
+        ],
+        "id_str": "2407177889"
+      }
+    ],
+    "media": [
+      {
+        "id": 810532779028975616,
+        "expanded_url": "https://twitter.com/NBCNewsReport/status/810532787266654209/photo/1",
+        "display_url": "pic.twitter.com/wO2nLk0Pd3",
+        "source_status_id_str": "810532787266654209",
+        "sizes": {
+          "large": {
+            "w": 600,
+            "resize": "fit",
+            "h": 340
+          },
+          "medium": {
+            "w": 600,
+            "resize": "fit",
+            "h": 340
+          },
+          "small": {
+            "w": 600,
+            "resize": "fit",
+            "h": 340
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/Cz-XRKTVEAAiiTV.jpg",
+        "url": "https://t.co/wO2nLk0Pd3",
+        "source_user_id": 2407177889,
+        "media_url_https": "https://pbs.twimg.com/media/Cz-XRKTVEAAiiTV.jpg",
+        "source_user_id_str": "2407177889",
+        "id_str": "810532779028975616",
+        "source_status_id": 810532787266654209,
+        "indices": [
+          111,
+          134
+        ],
+        "type": "photo"
+      }
+    ],
+    "hashtags": []
+  },
+  "created_at": "Sun Dec 18 18:57:28 +0000 2016",
+  "geo": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "extended_entities": {
+    "media": [
+      {
+        "id": 810532779028975616,
+        "expanded_url": "https://twitter.com/NBCNewsReport/status/810532787266654209/photo/1",
+        "display_url": "pic.twitter.com/wO2nLk0Pd3",
+        "source_status_id_str": "810532787266654209",
+        "sizes": {
+          "large": {
+            "w": 600,
+            "resize": "fit",
+            "h": 340
+          },
+          "medium": {
+            "w": 600,
+            "resize": "fit",
+            "h": 340
+          },
+          "small": {
+            "w": 600,
+            "resize": "fit",
+            "h": 340
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/Cz-XRKTVEAAiiTV.jpg",
+        "url": "https://t.co/wO2nLk0Pd3",
+        "source_user_id": 2407177889,
+        "media_url_https": "https://pbs.twimg.com/media/Cz-XRKTVEAAiiTV.jpg",
+        "source_user_id_str": "2407177889",
+        "id_str": "810532779028975616",
+        "source_status_id": 810532787266654209,
+        "indices": [
+          111,
+          134
+        ],
+        "type": "photo"
+      }
+    ]
+  },
+  "user": {
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "created_at": "Thu Nov 29 18:34:39 +0000 2012",
+    "description": "Fascinating, funny, deep and hearthwarming pictures/videos of places, people, animals and nature. We do not own the images in our tweets.",
+    "is_translator": false,
+    "lang": "nl",
+    "profile_use_background_image": true,
+    "protected": false,
+    "listed_count": 7624,
+    "follow_request_sent": false,
+    "location": "fascinatingpictures@gmail.com",
+    "profile_background_color": "C0DEED",
+    "name": "Fascinating Pictures",
+    "verified": false,
+    "profile_background_tile": false,
+    "has_extended_profile": false,
+    "geo_enabled": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/425946167050911744/x62a9eBz_normal.jpeg",
+    "contributors_enabled": false,
+    "id_str": "978908012",
+    "is_translation_enabled": false,
+    "id": 978908012,
+    "default_profile_image": false,
+    "profile_link_color": "0084B4",
+    "utc_offset": 3600,
+    "favourites_count": 10,
+    "profile_text_color": "333333",
+    "followers_count": 2623223,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/425946167050911744/x62a9eBz_normal.jpeg",
+    "following": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/476627038304866304/HsO1EJwR.jpeg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/476627038304866304/HsO1EJwR.jpeg",
+    "friends_count": 324,
+    "notifications": false,
+    "screen_name": "Fascinatingpics",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/978908012/1399970903",
+    "statuses_count": 545,
+    "profile_sidebar_border_color": "FFFFFF",
+    "default_profile": false,
+    "translator_type": "regular",
+    "url": null,
+    "time_zone": "Amsterdam"
+  },
+  "text": "RT @NBCNewsReport: New Clear \"Limitless\" Pill 💊 Will Go Public In Less Than 24 Hours 📈\nhttps://t.co/XsjdJjlJh1 https://t.co/wO2nLk0Pd3",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "truncated": false,
+  "id_str": "810559624189530114",
+  "retweeted_status": {
+    "in_reply_to_user_id": null,
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://nbcnews.io/new-limitless-pill-will-go-public-in-24-hours/?source=socialpubs&a=97",
+          "display_url": "nbcnews.io/new-limitless-…",
+          "url": "https://t.co/XsjdJjlJh1",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "media": [
+        {
+          "id": 810532779028975616,
+          "media_url_https": "https://pbs.twimg.com/media/Cz-XRKTVEAAiiTV.jpg",
+          "display_url": "pic.twitter.com/wO2nLk0Pd3",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 340
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 340
+            },
+            "small": {
+              "w": 600,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "https://twitter.com/NBCNewsReport/status/810532787266654209/photo/1",
+          "media_url": "http://pbs.twimg.com/media/Cz-XRKTVEAAiiTV.jpg",
+          "indices": [
+            92,
+            115
+          ],
+          "id_str": "810532779028975616",
+          "url": "https://t.co/wO2nLk0Pd3"
+        }
+      ],
+      "hashtags": []
+    },
+    "created_at": "Sun Dec 18 17:10:50 +0000 2016",
+    "geo": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "extended_entities": {
+      "media": [
+        {
+          "id": 810532779028975616,
+          "media_url_https": "https://pbs.twimg.com/media/Cz-XRKTVEAAiiTV.jpg",
+          "display_url": "pic.twitter.com/wO2nLk0Pd3",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 340
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 340
+            },
+            "small": {
+              "w": 600,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "expanded_url": "https://twitter.com/NBCNewsReport/status/810532787266654209/photo/1",
+          "media_url": "http://pbs.twimg.com/media/Cz-XRKTVEAAiiTV.jpg",
+          "indices": [
+            92,
+            115
+          ],
+          "id_str": "810532779028975616",
+          "url": "https://t.co/wO2nLk0Pd3"
+        }
+      ]
+    },
+    "user": {
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "created_at": "Thu Mar 13 10:17:07 +0000 2014",
+      "description": "A leading source of global news and information for more than 75 years. ***PARODY NEWS ACCOUNT***",
+      "is_translator": false,
+      "lang": "en",
+      "profile_use_background_image": true,
+      "protected": false,
+      "listed_count": 2,
+      "follow_request_sent": false,
+      "location": "New York, NY",
+      "profile_background_color": "C0DEED",
+      "name": "NBC News",
+      "verified": false,
+      "profile_background_tile": false,
+      "has_extended_profile": false,
+      "geo_enabled": false,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/808379009012625408/dvYQyuwM_normal.jpg",
+      "contributors_enabled": false,
+      "id_str": "2407177889",
+      "is_translation_enabled": false,
+      "id": 2407177889,
+      "default_profile_image": false,
+      "profile_link_color": "1DA1F2",
+      "utc_offset": -28800,
+      "favourites_count": 0,
+      "profile_text_color": "333333",
+      "followers_count": 15927,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/808379009012625408/dvYQyuwM_normal.jpg",
+      "following": false,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "friends_count": 3,
+      "notifications": false,
+      "screen_name": "NBCNewsReport",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2407177889/1481567585",
+      "statuses_count": 29,
+      "profile_sidebar_border_color": "C0DEED",
+      "default_profile": true,
+      "translator_type": "none",
+      "url": null,
+      "time_zone": "Pacific Time (US & Canada)"
+    },
+    "text": "New Clear \"Limitless\" Pill 💊 Will Go Public In Less Than 24 Hours 📈\nhttps://t.co/XsjdJjlJh1 https://t.co/wO2nLk0Pd3",
+    "lang": "en",
+    "in_reply_to_status_id": null,
+    "truncated": false,
+    "id_str": "810532787266654209",
+    "retweet_count": 12,
+    "id": 810532787266654209,
+    "favorited": false,
+    "place": null,
+    "in_reply_to_screen_name": null,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "in_reply_to_user_id_str": null,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "favorite_count": 33
+  },
+  "id": 810559624189530114,
+  "favorited": false,
+  "place": null,
+  "in_reply_to_screen_name": null,
+  "lang": "en",
+  "contributors": null,
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "retweet_count": 12,
+  "in_reply_to_user_id_str": null,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "is_quote_status": false
+}
