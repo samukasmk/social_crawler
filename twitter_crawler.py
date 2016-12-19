@@ -22,7 +22,8 @@ def get_twitter_posts(twitter_api, **api_params):
 
     posts = twitter_api.statuses_user_timeline().get(params=api_params)
 
-    for post in posts().data:
+    for page in posts().pages(max_pages=5):
+        post = page().data
         post_row = dict(type_id=2,
                         post_id=post['id'],
                         post_text=post['text'],
@@ -44,16 +45,14 @@ def get_twitter_posts(twitter_api, **api_params):
         yield post_row
 
 
-def twitter_crawler(screen_name, **timeline_kwargs):
+def twitter_crawler(user_name, **timeline_kwargs):
 
     api = Twitter(api_key=config['twitter']['api_key'],
         api_secret=config['twitter']['api_secret'],
         access_token=config['twitter']['access_token'],
         access_token_secret=config['twitter']['access_token_secret'])
 
-    post_rows = get_twitter_posts(twitter_api=api,
-                                  screen_name=screen_name,
-                                  **timeline_kwargs)
+    post_rows = get_twitter_posts(api, screen_name=user_name, **timeline_kwargs)
 
     file_path = 'raw_data/twitter_{}.csv'.format(
         datetime.now().isoformat().replace(':', '_'))
@@ -62,17 +61,4 @@ def twitter_crawler(screen_name, **timeline_kwargs):
 
 
 if __name__ == '__main__':
-    twitter_crawler('samukasmk')
-
-# GET 1000 twittes / retwittes from user
-#
-# last_twitte_id = None
-# twittes = []
-# for i in range(1, 6):
-#     statuses = api.GetUserTimeline(screen_name=user,
-#         count=200, max_id=last_twitte_id)
-#     twittes += statuses
-#     if len(statuses) >= 200:
-#         last_twitte_id = statuses[-1].id
-#     else:
-#         break
+    twitter_crawler(user_name='samukasmk', count=200)
